@@ -12,14 +12,6 @@ dist
 dist-ssr
 *.local
 
-# Environment & Virtualenvs
-.env
-.env.*
-!.env.example
-.venv/
-venv/
-__pycache__/
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
